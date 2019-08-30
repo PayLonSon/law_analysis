@@ -1,0 +1,38 @@
+{
+  "name": "決策因子重要程度",
+  "children": [
+    {
+      "name": "你好 30%",
+      "children": [
+        {
+          "category": "你好 10%",
+          "name": "Office of Planning",
+          "change": 12,
+          "value": 30
+        }
+      ]
+    },
+	{
+      "name": "我好 30%",
+      "children": [
+        {
+          "category": "你好 10%",
+          "name": "Office of Planning",
+          "change": -22,
+          "value": 30
+        }
+      ]
+    }
+	,{
+      "name": "大家好 40%",
+      "children": [
+        {
+          "category": "你好 10%",
+          "name": "Office of Planning",
+          "change": 0,
+          "value": 40
+        }
+      ]
+    }
+	]
+}
