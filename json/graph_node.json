@@ -1,2612 +1,986 @@
 ﻿[
   {
-    "name": 28666673,
-    "chName": "金立軒有限公司",
-    "status": "N",
-    "group": 2
+    "name": 6,
+    "chName": "主題6",
+    "statue": "Y",
+    "group": 6
   },
   {
-    "name": 86379707,
-    "chName": "健鼎科技股份有限公司",
-    "status": "N",
-    "group": 3
-  },
-  {
-    "name": 23509611,
-    "chName": "昶昕實業股份有限公司含銅廢液處理廠",
-    "status": "N",
-    "group": 3
-  },
-  {
-    "name": "03002077",
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 81065657,
-    "chName": "安星化學原料儀器行",
-    "status": "未知",
-    "group": 7
-  },
-  {
-    "name": 86050598,
-    "chName": "高燁行實業有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 99652351,
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
-  },
-  {
-    "name": 23603067,
-    "chName": "鈞興企業股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 99621823,
-    "chName": "未知",
-    "status": "未知",
-    "group": 3
-  },
-  {
-    "name": 99630686,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 69291995,
-    "chName": "和美工業原料行",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": "04212250",
-    "chName": "國喬石油化學股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": "09000559",
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 89779679,
-    "chName": "台灣大馬長山有限公司",
-    "status": "N",
-    "group": 10
-  },
-  {
-    "name": 11912601,
-    "chName": "輝瑞生技股份有限公司",
-    "status": "Y",
-    "group": 1
-  },
-  {
-    "name": 16230703,
-    "chName": "極品化學科技股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 34126008,
-    "chName": "申安化工股份有限公司",
-    "status": "Y",
-    "group": 1
-  },
-  {
-    "name": "94A00412",
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 99685489,
-    "chName": "未知",
-    "status": "未知",
-    "group": 3
-  },
-  {
-    "name": 99656601,
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
-  },
-  {
-    "name": 99706726,
-    "chName": "小玲企業社",
-    "status": "未知",
-    "group": 12
-  },
-  {
-    "name": "03244705",
-    "chName": "萬洲化學股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 99623012,
-    "chName": "未知",
-    "status": "未知",
-    "group": 33
-  },
-  {
-    "name": 80469391,
-    "chName": "鑫業光電科技股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 99654575,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 12660131,
-    "chName": "昱鐳光電科技股份有限公司",
-    "status": "N",
-    "group": 2
-  },
-  {
-    "name": 99630018,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 99622797,
-    "chName": "未知",
-    "status": "未知",
-    "group": 10
-  },
-  {
-    "name": 99639392,
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
-  },
-  {
-    "name": 16736724,
-    "chName": "有化科技股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 99671689,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 99630115,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 13021915,
-    "chName": "盛毅科技實業有限公司",
-    "status": "N",
-    "group": 2
-  },
-  {
-    "name": "95A00725",
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
-  },
-  {
-    "name": 99657734,
-    "chName": "未知",
-    "status": "未知",
-    "group": 3
-  },
-  {
-    "name": 16284926,
-    "chName": "安成國際藥業股份有限公司",
-    "status": "N",
+    "name": 4,
+    "chName": "主題4",
+    "statue": "Y",
     "group": 4
   },
   {
-    "name": 99630091,
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
-  },
-  {
-    "name": 99630352,
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
-  },
-  {
-    "name": 99711554,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 15458455,
-    "chName": "臺灣永光化學工業股份有限公司",
-    "status": "N",
-    "group": 2
-  },
-  {
-    "name": 89657280,
-    "chName": "開利達企業股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 15458455,
-    "chName": "臺灣永光化學工業股份有限公司第一廠",
-    "status": "N",
-    "group": 2
-  },
-  {
-    "name": 99628021,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 99633162,
-    "chName": "未知",
-    "status": "未知",
-    "group": 6
-  },
-  {
-    "name": 99655079,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 99656024,
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
-  },
-  {
-    "name": 99656646,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": "05191491",
-    "chName": "台灣波律股份有限公司營運暨研發中心",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 16642923,
-    "chName": "日耀國際有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 99621536,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 99628011,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 22404266,
-    "chName": "統懋半導體股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 53427200,
-    "chName": "昌皇實業有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 97160544,
-    "chName": "漢翔航空工業股份有限公司",
-    "status": "N",
-    "group": 4
-  },
-  {
-    "name": 99624763,
-    "chName": "未知",
-    "status": "未知",
-    "group": 7
-  },
-  {
-    "name": 23930512,
-    "chName": "台灣巴斯夫股份有限公司",
-    "status": "Y",
-    "group": 1
-  },
-  {
-    "name": 34281486,
-    "chName": "昶緣興化學工業股份有限公司新竹廠",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 23420721,
-    "chName": "均鐘企業有限公司",
-    "status": "Y",
-    "group": 1
-  },
-  {
-    "name": 84858169,
-    "chName": "加利利科技股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": "03000299",
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 99664695,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 66001594,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": "90N00485",
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 99631644,
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
-  },
-  {
-    "name": "05191491",
-    "chName": "台灣波律股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 99663373,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 22554807,
-    "chName": "先豐通訊股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 75370905,
-    "chName": "南亞塑膠工業股份有限公司工三廠",
-    "status": "N",
+    "name": 3,
+    "chName": "主題3",
+    "statue": "Y",
     "group": 3
   },
   {
-    "name": 99707286,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 10,
+    "chName": "主題10",
+    "statue": "Y",
+    "group": 10
   },
   {
-    "name": 75415298,
-    "chName": "高福化學工業股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 15903054,
-    "chName": "融鋒興業有限公司",
-    "status": "Y",
-    "group": 3
-  },
-  {
-    "name": 22596980,
-    "chName": "國嘉製藥工業股份有限公司",
-    "status": "N",
-    "group": 3
-  },
-  {
-    "name": 99661223,
-    "chName": "未知",
-    "status": "未知",
-    "group": 3
-  },
-  {
-    "name": 22470814,
-    "chName": "奇裕企業股份有限公司",
-    "status": "N",
-    "group": 3
-  },
-  {
-    "name": 99661848,
-    "chName": "未知",
-    "status": "未知",
+    "name": 2,
+    "chName": "主題2",
+    "statue": "Y",
     "group": 2
   },
   {
-    "name": 99673096,
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
-  },
-  {
-    "name": 70385529,
-    "chName": "珀金埃爾默股份有限公司",
-    "status": "N",
-    "group": 2
-  },
-  {
-    "name": 99630177,
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
-  },
-  {
-    "name": 99630242,
-    "chName": "未知",
-    "status": "未知",
-    "group": 7
-  },
-  {
-    "name": 99630041,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 99630364,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 24877199,
-    "chName": "群浤科技股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 80141354,
-    "chName": "揚堡實業有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 96895596,
-    "chName": "萬翔精機股份有限公司",
-    "status": "N",
-    "group": 2
-  },
-  {
-    "name": 22716731,
-    "chName": "弘昕企業有限公司",
-    "status": "N",
-    "group": 2
-  },
-  {
-    "name": "03626801",
-    "chName": "佳美貿易股份有限公司",
-    "status": "Y",
-    "group": 6
-  },
-  {
-    "name": 99666729,
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
-  },
-  {
-    "name": 99661598,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 99686758,
-    "chName": "未知",
-    "status": "未知",
-    "group": 3
-  },
-  {
-    "name": 22731753,
-    "chName": "鑫山應用材料股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 99624639,
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
-  },
-  {
-    "name": 99624762,
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
-  },
-  {
-    "name": "94A00015",
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 97176898,
-    "chName": "小池有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 54259510,
-    "chName": "達錩化工實業有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": "93A00092",
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 99686643,
-    "chName": "世友商行",
-    "status": "未知",
-    "group": 2
-  },
-  {
-    "name": 99687187,
-    "chName": "未知",
-    "status": "未知",
-    "group": 3
-  },
-  {
-    "name": 12509662,
-    "chName": "信意企業股份有限公司",
-    "status": "Y",
-    "group": 6
-  },
-  {
-    "name": 69600079,
-    "chName": "睿澤材料科技有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 23449889,
-    "chName": "精準環境股份有限公司",
-    "status": "N",
-    "group": 3
-  },
-  {
-    "name": 99656408,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 69363293,
-    "chName": "冠響企業有限公司",
-    "status": "Y",
-    "group": 2
-  },
-  {
-    "name": 99654733,
-    "chName": "順利禮儀社",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": "09444878",
-    "chName": "聚益化學工業股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": "03088802",
-    "chName": "中國化學製藥股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 53300977,
-    "chName": "鼎展電子股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 99661406,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 80233234,
-    "chName": "盈昌科技工業股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 11589006,
-    "chName": "第一化工原料股份有限公司",
-    "status": "Y",
-    "group": 3
-  },
-  {
-    "name": 22995255,
-    "chName": "鴻昌玻璃有限公司",
-    "status": "Y",
-    "group": 1
-  },
-  {
-    "name": 99664387,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 99722680,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 99656637,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 28527119,
-    "chName": "霈昇實業有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 99628216,
-    "chName": "洪聲通訊器材行",
-    "status": "未知",
-    "group": 2
-  },
-  {
-    "name": 64000067,
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
-  },
-  {
-    "name": 99623030,
-    "chName": "未知",
-    "status": "未知",
-    "group": 5
-  },
-  {
-    "name": 23225071,
-    "chName": "瀚宇博德股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 22048035,
-    "chName": "協明工業股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 16743719,
-    "chName": "聯仕電子化學材料股份有限公司大發廠",
-    "status": "Y",
-    "group": 1
-  },
-  {
-    "name": 23592792,
-    "chName": "上準環境科技股份有限公司",
-    "status": "N",
-    "group": 2
-  },
-  {
-    "name": 99606872,
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
-  },
-  {
-    "name": 99661610,
-    "chName": "未知",
-    "status": "未知",
-    "group": 7
-  },
-  {
-    "name": 99661735,
-    "chName": "未知",
-    "status": "未知",
-    "group": 3
-  },
-  {
-    "name": 99707500,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": "05000108",
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 84305884,
-    "chName": "來順股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 42626575,
-    "chName": "台灣恩巨恩科技股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 12483749,
-    "chName": "祥圃實業股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 99630438,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 99661829,
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
-  },
-  {
-    "name": 99614006,
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
-  },
-  {
-    "name": 99657500,
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
-  },
-  {
-    "name": 99656978,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 99707397,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 80170651,
-    "chName": "三福化工股份有限公司柳科廠",
-    "status": "Y",
-    "group": 1
-  },
-  {
-    "name": 23019115,
-    "chName": "元杰企業有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 99699608,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 99709470,
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
-  },
-  {
-    "name": 97154825,
-    "chName": "華穎環境科技顧問股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 99719683,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 99620397,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": "04580634",
-    "chName": "信忠化工原料有限公司",
-    "status": "Y",
-    "group": 1
-  },
-  {
-    "name": "05136060",
-    "chName": "梧宇企業有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 16382171,
-    "chName": "晉記化工股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 23197342,
-    "chName": "天瑛股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 16326209,
-    "chName": "協承昌股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 77249818,
-    "chName": "中德化工原料行",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 12854468,
-    "chName": "柏新科技股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 27806893,
-    "chName": "上銓科技股份有限公司",
-    "status": "N",
-    "group": 2
-  },
-  {
-    "name": 99663073,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": "03298808",
-    "chName": "恆茂有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 99627734,
-    "chName": "未知",
-    "status": "未知",
-    "group": 6
-  },
-  {
-    "name": 99654574,
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
-  },
-  {
-    "name": "95C00477",
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 20844865,
-    "chName": "台灣苯乙烯工業股份有限公司",
-    "status": "N",
-    "group": 6
-  },
-  {
-    "name": 99656974,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 16096804,
-    "chName": "南亞電路板股份有限公司",
-    "status": "N",
-    "group": 2
-  },
-  {
-    "name": 11456110,
-    "chName": "美時化學製藥股份有限公司",
-    "status": "N",
-    "group": 2
-  },
-  {
-    "name": 86666855,
-    "chName": "金通化工有限公司",
-    "status": "N",
-    "group": 3
-  },
-  {
-    "name": 96922622,
-    "chName": "台耀化學股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": "94A00268",
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 99663629,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 99706758,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 12620194,
-    "chName": "宏岳興業有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 14050402,
-    "chName": "弘峰國際商業有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": "95A00662",
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 35894259,
-    "chName": "炎洲股份有限公司",
-    "status": "N",
-    "group": 2
-  },
-  {
-    "name": 28089791,
-    "chName": "泓泰環保科技股份有限公司",
-    "status": "N",
+    "name": 9,
+    "chName": "主題9",
+    "statue": "Y",
     "group": 9
   },
   {
-    "name": 99661418,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 20561107,
-    "chName": "貝民股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 99653067,
-    "chName": "未知",
-    "status": "未知",
+    "name": 8,
+    "chName": "主題8",
+    "statue": "Y",
     "group": 8
   },
   {
-    "name": 64004145,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 7,
+    "chName": "主題7",
+    "statue": "Y",
+    "group": 7
   },
   {
-    "name": 96966141,
-    "chName": "鼎好貿易有限公司",
-    "status": "N",
-    "group": 14
-  },
-  {
-    "name": 99618792,
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
-  },
-  {
-    "name": 99652384,
-    "chName": "未知",
-    "status": "未知",
-    "group": 58
-  },
-  {
-    "name": 22490564,
-    "chName": "佳宜科技股份有限公司",
-    "status": "N",
-    "group": 4
-  },
-  {
-    "name": 99717593,
-    "chName": "未知",
-    "status": "未知",
-    "group": 10
-  },
-  {
-    "name": 68496302,
-    "chName": "信和貿易有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 99653066,
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
-  },
-  {
-    "name": 99622942,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 99657738,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 68919301,
-    "chName": "臺南紡織股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 99688370,
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
-  },
-  {
-    "name": 24629810,
-    "chName": "凱鍶科技股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 69601921,
-    "chName": "新芳良化工原料儀器有限公司",
-    "status": "Y",
-    "group": 1
-  },
-  {
-    "name": 99623730,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 99622117,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 99676631,
-    "chName": "未知",
-    "status": "未知",
-    "group": 22
-  },
-  {
-    "name": 24437030,
-    "chName": "元淞有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 99654398,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": "03001729",
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 19628474,
-    "chName": "百力化工原料行",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 53184800,
-    "chName": "誠信檢驗科技有限公司",
-    "status": "N",
-    "group": 3
-  },
-  {
-    "name": 80358971,
-    "chName": "四維精密材料股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 66004487,
-    "chName": "未知",
-    "status": "未知",
-    "group": 4
-  },
-  {
-    "name": 11833655,
-    "chName": "台灣明尼蘇達礦業製造股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 16606911,
-    "chName": "軒亨企業股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 99601791,
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
-  },
-  {
-    "name": 12961045,
-    "chName": "佳勝科技股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 84171822,
-    "chName": "欣欣化學有限公司",
-    "status": "Y",
-    "group": 15
-  },
-  {
-    "name": 99623565,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 99630308,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 99655522,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": "05197896",
-    "chName": "優立實業股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 84670550,
-    "chName": "東利達股份有限公司蘆竹廠",
-    "status": "N",
-    "group": 6
-  },
-  {
-    "name": 11833698,
-    "chName": "台豐印刷電路工業股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 99630549,
-    "chName": "未知",
-    "status": "未知",
-    "group": 4
-  },
-  {
-    "name": "03001683",
-    "chName": "未知",
-    "status": "未知",
-    "group": 10
-  },
-  {
-    "name": 23456375,
-    "chName": "精湛檢驗科技股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 29046271,
-    "chName": "竟天生物科技股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 70557655,
-    "chName": "藥華醫藥股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 28125749,
-    "chName": "崴舜企業有限公司",
-    "status": "Y",
-    "group": 1
-  },
-  {
-    "name": 84128086,
-    "chName": "勇健工業股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 70842899,
-    "chName": "義鎧科技股份有限公司桃園廠",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": "95A00196",
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": "04592694",
-    "chName": "嘉華化學有限公司",
-    "status": "N",
+    "name": 5,
+    "chName": "主題5",
+    "statue": "Y",
     "group": 5
   },
   {
-    "name": 16894172,
-    "chName": "友和貿易股份有限公司",
-    "status": "Y",
-    "group": 160
-  },
-  {
-    "name": 99662641,
-    "chName": "未知",
-    "status": "未知",
+    "name": 1,
+    "chName": "主題1",
+    "statue": "Y",
     "group": 1
   },
   {
-    "name": 12828053,
-    "chName": "興普科技股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 99622935,
-    "chName": "未知",
-    "status": "未知",
-    "group": 25
-  },
-  {
-    "name": 99621777,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 22853994,
-    "chName": "台灣寶理塑膠股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 99623302,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 99687334,
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
-  },
-  {
-    "name": "05153644",
-    "chName": "台銨有限公司",
-    "status": "Y",
-    "group": 5
-  },
-  {
-    "name": 36354343,
-    "chName": "騰煒科技股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": "03002144",
-    "chName": "未知",
-    "status": "未知",
-    "group": 3
-  },
-  {
-    "name": 99711405,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 75708007,
-    "chName": "台灣塑膠工業股份有限公司麥寮廠",
-    "status": "Y",
-    "group": 1
-  },
-  {
-    "name": "90T00315",
-    "chName": "未知",
-    "status": "未知",
-    "group": 4
-  },
-  {
-    "name": 99628446,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": "03553737",
-    "chName": "台橡股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 99621772,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 80170651,
-    "chName": "三福化工股份有限公司善化廠",
-    "status": "Y",
-    "group": 1
-  },
-  {
-    "name": 99655498,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 24669880,
-    "chName": "正順安科技顧問股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 23932835,
-    "chName": "台灣日曹商事股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 25110834,
-    "chName": "見欣實業股份有限公司",
-    "status": "N",
-    "group": 3
-  },
-  {
-    "name": 99667305,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 99622352,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 99678246,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": "04243562",
-    "chName": "聚和國際股份有限公司",
-    "status": "N",
-    "group": 2
-  },
-  {
-    "name": 84552527,
-    "chName": "典試科技股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 70502054,
-    "chName": "普森環保科技股份有限公司",
-    "status": "N",
-    "group": 3
-  },
-  {
-    "name": 99601037,
-    "chName": "未知",
-    "status": "未知",
-    "group": 3
-  },
-  {
-    "name": "03001628",
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": "95A00921",
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 23509611,
-    "chName": "昶昕實業股份有限公司大園一廠",
-    "status": "N",
-    "group": 3
-  },
-  {
-    "name": "93A00068",
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 84555019,
-    "chName": "元稼企業有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 99622973,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 99663117,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 11384708,
-    "chName": "長春人造樹脂廠股份有限公司高雄廠",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 25018273,
-    "chName": "永揚生醫科技股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 89004161,
-    "chName": "華泰電子股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 99721703,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 75370905,
-    "chName": "南亞塑膠工業股份有限公司海豐總廠",
-    "status": "N",
-    "group": 3
-  },
-  {
-    "name": 80567610,
-    "chName": "正效實業有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 99636643,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 86077941,
-    "chName": "天有貿易股份有限公司",
-    "status": "Y",
-    "group": 1
-  },
-  {
-    "name": 80170651,
-    "chName": "三福化工股份有限公司善化食品廠",
-    "status": "Y",
-    "group": 1
-  },
-  {
-    "name": 80243887,
-    "chName": "昇鴻科技股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 27711144,
-    "chName": "順淯實業有限公司",
-    "status": "Y",
-    "group": 1
-  },
-  {
-    "name": 11325906,
-    "chName": "青山貿易有限公司",
-    "status": "Y",
-    "group": 3
-  },
-  {
-    "name": 75370905,
-    "chName": "南亞塑膠工業股份有限公司",
-    "status": "N",
-    "group": 3
-  },
-  {
-    "name": 12890936,
-    "chName": "動能科技股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 99707287,
-    "chName": "未知",
-    "status": "未知",
-    "group": 4
-  },
-  {
-    "name": 99656352,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 75708007,
-    "chName": "臺灣塑膠工業股份有限公司",
-    "status": "Y",
-    "group": 1
-  },
-  {
-    "name": 28089791,
-    "chName": "泓泰環保科技股份有限公司大同廠",
-    "status": "N",
-    "group": 9
-  },
-  {
-    "name": 17000005,
-    "chName": "未知",
-    "status": "未知",
-    "group": 3
+    "name": 1101,
+    "chName": "一紙",
+    "statue": "Y",
+    "group": 1101
   },
   {
-    "name": 16517116,
-    "chName": "綠亞實業有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 99623199,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 75708007,
-    "chName": "台灣塑膠工業股份有限公司仁武廠",
-    "status": "Y",
-    "group": 1
-  },
-  {
-    "name": 22434156,
-    "chName": "鼎元光電科技股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 36734941,
-    "chName": "蓮成蛋行",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 68000274,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 99621840,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
-  },
-  {
-    "name": 19040827,
-    "chName": "嘉馥貿易有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 83394521,
-    "chName": "見龍實業股份有限公司",
-    "status": "N",
-    "group": 1
-  },
-  {
-    "name": 99700501,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1067,
+    "chName": "二五",
+    "statue": "Y",
+    "group": 1067
   },
   {
-    "name": 99630049,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1043,
+    "chName": "三重",
+    "statue": "Y",
+    "group": 1043
   },
   {
-    "name": 99665562,
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
+    "name": 1150,
+    "chName": "上訴人",
+    "statue": "Y",
+    "group": 1150
   },
   {
-    "name": 11327209,
-    "chName": "松江實業股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1036,
+    "chName": "上訴書",
+    "statue": "Y",
+    "group": 1036
   },
   {
-    "name": 16176150,
-    "chName": "台灣微脂體股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1072,
+    "chName": "下列",
+    "statue": "Y",
+    "group": 1072
   },
   {
-    "name": 53485593,
-    "chName": "進鴻科技有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1148,
+    "chName": "不得",
+    "statue": "Y",
+    "group": 1148
   },
   {
-    "name": 20891326,
-    "chName": "禾伸堂企業股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1027,
+    "chName": "不經",
+    "statue": "Y",
+    "group": 1027
   },
   {
-    "name": 23282972,
-    "chName": "益和貿易有限公司",
-    "status": "N",
-    "group": 4
+    "name": 1106,
+    "chName": "中度",
+    "statue": "Y",
+    "group": 1106
   },
   {
-    "name": 35537350,
-    "chName": "台灣高木彫刻股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1100,
+    "chName": "中毒",
+    "statue": "Y",
+    "group": 1100
   },
   {
-    "name": 99679387,
-    "chName": "未知",
-    "status": "未知",
-    "group": 3
+    "name": 1140,
+    "chName": "之物",
+    "statue": "Y",
+    "group": 1140
   },
   {
-    "name": 99630271,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1068,
+    "chName": "之物致",
+    "statue": "Y",
+    "group": 1068
   },
   {
-    "name": 99657799,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1031,
+    "chName": "之罪",
+    "statue": "Y",
+    "group": 1031
   },
   {
-    "name": 16236208,
-    "chName": "謙磊國際有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1134,
+    "chName": "內以",
+    "statue": "Y",
+    "group": 1134
   },
   {
-    "name": 68228003,
-    "chName": "合成工業原料股份有限公司",
-    "status": "Y",
-    "group": 1
+    "name": 1061,
+    "chName": "公升",
+    "statue": "Y",
+    "group": 1061
   },
   {
-    "name": 99630092,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1147,
+    "chName": "公司",
+    "statue": "Y",
+    "group": 1147
   },
   {
-    "name": 22662545,
-    "chName": "旭富製藥科技股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1056,
+    "chName": "公示",
+    "statue": "Y",
+    "group": 1056
   },
   {
-    "name": "09458767",
-    "chName": "遠東精密化學股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1025,
+    "chName": "公訴",
+    "statue": "Y",
+    "group": 1025
   },
   {
-    "name": 84670550,
-    "chName": "東利達股份有限公司",
-    "status": "N",
-    "group": 6
+    "name": 1128,
+    "chName": "公路",
+    "statue": "Y",
+    "group": 1128
   },
   {
-    "name": 12986812,
-    "chName": "泰衛化工原料有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1044,
+    "chName": "日卷",
+    "statue": "Y",
+    "group": 1044
   },
   {
-    "name": 29186808,
-    "chName": "日月暘電子股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1076,
+    "chName": "以外",
+    "statue": "Y",
+    "group": 1076
   },
   {
-    "name": 99630045,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1050,
+    "chName": "台北市",
+    "statue": "Y",
+    "group": 1050
   },
   {
-    "name": 28398656,
-    "chName": "益奇生科技股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1135,
+    "chName": "本庭",
+    "statue": "Y",
+    "group": 1135
   },
   {
-    "name": 99639058,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1054,
+    "chName": "正北",
+    "statue": "Y",
+    "group": 1054
   },
   {
-    "name": 63022047,
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
+    "name": 1112,
+    "chName": "民事訴訟",
+    "statue": "Y",
+    "group": 1112
   },
   {
-    "name": 99653147,
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
+    "name": 1114,
+    "chName": "犯行",
+    "statue": "Y",
+    "group": 1114
   },
   {
-    "name": "90P00004",
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1081,
+    "chName": "犯罪",
+    "statue": "Y",
+    "group": 1081
   },
   {
-    "name": 84299742,
-    "chName": "聯亞生技開發股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1052,
+    "chName": "申字第",
+    "statue": "Y",
+    "group": 1052
   },
   {
-    "name": 99623932,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1045,
+    "chName": "交通",
+    "statue": "Y",
+    "group": 1045
   },
   {
-    "name": 86662936,
-    "chName": "濟緯實業股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1038,
+    "chName": "刑事判決",
+    "statue": "Y",
+    "group": 1038
   },
   {
-    "name": 51628722,
-    "chName": "華成工業原料行",
-    "status": "未知",
-    "group": 1
+    "name": 1063,
+    "chName": "吐氣",
+    "statue": "Y",
+    "group": 1063
   },
   {
-    "name": 12369971,
-    "chName": "全國公證檢驗股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1075,
+    "chName": "安全",
+    "statue": "Y",
+    "group": 1075
   },
   {
-    "name": 27819932,
-    "chName": "錦昌化工有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1033,
+    "chName": "收受",
+    "statue": "Y",
+    "group": 1033
   },
   {
-    "name": 99661755,
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
+    "name": 1073,
+    "chName": "百分之零點",
+    "statue": "Y",
+    "group": 1073
   },
   {
-    "name": 99633180,
-    "chName": "多億商行",
-    "status": "未知",
-    "group": 5
+    "name": 1090,
+    "chName": "自白",
+    "statue": "Y",
+    "group": 1090
   },
   {
-    "name": 99677793,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1084,
+    "chName": "自首",
+    "statue": "Y",
+    "group": 1084
   },
   {
-    "name": 99630413,
-    "chName": "未知",
-    "status": "未知",
-    "group": 3
+    "name": 1071,
+    "chName": "血液",
+    "statue": "Y",
+    "group": 1071
   },
   {
-    "name": 79950519,
-    "chName": "名泰化學材料有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1016,
+    "chName": "行車",
+    "statue": "Y",
+    "group": 1016
   },
   {
-    "name": 80719187,
-    "chName": "虹御生技有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1153,
+    "chName": "行使",
+    "statue": "Y",
+    "group": 1153
   },
   {
-    "name": "09000245",
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1097,
+    "chName": "行為",
+    "statue": "Y",
+    "group": 1097
   },
   {
-    "name": 42625180,
-    "chName": "大友有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1005,
+    "chName": "行駛",
+    "statue": "Y",
+    "group": 1005
   },
   {
-    "name": 99671726,
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
+    "name": 1132,
+    "chName": "判決書",
+    "statue": "Y",
+    "group": 1132
   },
   {
-    "name": 23880344,
-    "chName": "綠原國際股份有限公司",
-    "status": "N",
-    "group": 2
+    "name": 1064,
+    "chName": "含酒精",
+    "statue": "Y",
+    "group": 1064
   },
   {
-    "name": 16441469,
-    "chName": "能元科技股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1021,
+    "chName": "告訴",
+    "statue": "Y",
+    "group": 1021
   },
   {
-    "name": "03001120",
-    "chName": "未知",
-    "status": "未知",
-    "group": 18
+    "name": 1026,
+    "chName": "告訴乃論",
+    "statue": "Y",
+    "group": 1026
   },
   {
-    "name": 24654107,
-    "chName": "卉洋貿易股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1004,
+    "chName": "告訴人",
+    "statue": "Y",
+    "group": 1004
   },
   {
-    "name": 81152934,
-    "chName": "榮珉化學工業股份有限公司",
-    "status": "Y",
-    "group": 1
+    "name": 1115,
+    "chName": "完畢",
+    "statue": "Y",
+    "group": 1115
   },
   {
-    "name": 23526610,
-    "chName": "台灣默克股份有限公司",
-    "status": "Y",
-    "group": 47
+    "name": 1126,
+    "chName": "汽車",
+    "statue": "Y",
+    "group": 1126
   },
   {
-    "name": 99657710,
-    "chName": "未知",
-    "status": "未知",
-    "group": 3
+    "name": 1028,
+    "chName": "言詞辯論",
+    "statue": "Y",
+    "group": 1028
   },
   {
-    "name": "03002688",
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1077,
+    "chName": "足認",
+    "statue": "Y",
+    "group": 1077
   },
   {
-    "name": 66467822,
-    "chName": "弘力化工原料儀器有限公司",
-    "status": "Y",
-    "group": 3
+    "name": 1008,
+    "chName": "車道",
+    "statue": "Y",
+    "group": 1008
   },
   {
-    "name": 99672853,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1006,
+    "chName": "車輛",
+    "statue": "Y",
+    "group": 1006
   },
   {
-    "name": 23635912,
-    "chName": "亙祥實業有限公司",
-    "status": "N",
-    "group": 2
+    "name": 1047,
+    "chName": "事件",
+    "statue": "Y",
+    "group": 1047
   },
   {
-    "name": "93B00071",
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
+    "name": 1105,
+    "chName": "具體",
+    "statue": "Y",
+    "group": 1105
   },
   {
-    "name": 97330127,
-    "chName": "律勝科技股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1022,
+    "chName": "受理",
+    "statue": "Y",
+    "group": 1022
   },
   {
-    "name": 47735881,
-    "chName": "新仁企業行",
-    "status": "未知",
-    "group": 1
+    "name": 1094,
+    "chName": "呼氣",
+    "statue": "Y",
+    "group": 1094
   },
   {
-    "name": 99717863,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1091,
+    "chName": "和解",
+    "statue": "Y",
+    "group": 1091
   },
   {
-    "name": 23810592,
-    "chName": "相互股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1088,
+    "chName": "坦承",
+    "statue": "Y",
+    "group": 1088
   },
   {
-    "name": "04000230",
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1051,
+    "chName": "所北市",
+    "statue": "Y",
+    "group": 1051
   },
   {
-    "name": 16130161,
-    "chName": "台灣神隆股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1080,
+    "chName": "拘役",
+    "statue": "Y",
+    "group": 1080
   },
   {
-    "name": "07637364",
-    "chName": "兆鼎檢驗科技有限公司",
-    "status": "N",
-    "group": 2
+    "name": 1070,
+    "chName": "服用",
+    "statue": "Y",
+    "group": 1070
   },
   {
-    "name": 99647860,
-    "chName": "未知",
-    "status": "未知",
-    "group": 3
+    "name": 1103,
+    "chName": "服勞役",
+    "statue": "Y",
+    "group": 1103
   },
   {
-    "name": 14082397,
-    "chName": "長山化學有限公司",
-    "status": "N",
-    "group": 12
+    "name": 1151,
+    "chName": "法律",
+    "statue": "Y",
+    "group": 1151
   },
   {
-    "name": 23993564,
-    "chName": "于成股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1143,
+    "chName": "法院",
+    "statue": "Y",
+    "group": 1143
   },
   {
-    "name": 99621959,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1003,
+    "chName": "注意",
+    "statue": "Y",
+    "group": 1003
   },
   {
-    "name": 24576715,
-    "chName": "君肯實業有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1058,
+    "chName": "附表",
+    "statue": "Y",
+    "group": 1058
   },
   {
-    "name": 99630293,
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
+    "name": 1111,
+    "chName": "附帶",
+    "statue": "Y",
+    "group": 1111
   },
   {
-    "name": 66001325,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1079,
+    "chName": "前款",
+    "statue": "Y",
+    "group": 1079
   },
   {
-    "name": 70766576,
-    "chName": "錸寶科技股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1082,
+    "chName": "宣告",
+    "statue": "Y",
+    "group": 1082
   },
   {
-    "name": 97093378,
-    "chName": "東昇揚實業股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1138,
+    "chName": "毒品",
+    "statue": "Y",
+    "group": 1138
   },
   {
-    "name": 80672198,
-    "chName": "沅芳生物科技股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1069,
+    "chName": "相類",
+    "statue": "Y",
+    "group": 1069
   },
   {
-    "name": 11384708,
-    "chName": "長春人造樹脂廠股份有限公司彰濱廠",
-    "status": "N",
-    "group": 1
+    "name": 1089,
+    "chName": "紀錄",
+    "statue": "Y",
+    "group": 1089
   },
   {
-    "name": 22381398,
-    "chName": "杜盈工業原料有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1107,
+    "chName": "修正",
+    "statue": "Y",
+    "group": 1107
   },
   {
-    "name": 53371557,
-    "chName": "帝京科技股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1145,
+    "chName": "原告",
+    "statue": "Y",
+    "group": 1145
   },
   {
-    "name": 80170651,
-    "chName": "三福化工股份有限公司",
-    "status": "Y",
-    "group": 1
+    "name": 1144,
+    "chName": "原審",
+    "statue": "Y",
+    "group": 1144
   },
   {
-    "name": 99656523,
-    "chName": "未知",
-    "status": "未知",
-    "group": 5
+    "name": 1133,
+    "chName": "書狀",
+    "statue": "Y",
+    "group": 1133
   },
   {
-    "name": 11920905,
-    "chName": "台灣田邊製藥股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1099,
+    "chName": "症狀",
+    "statue": "Y",
+    "group": 1099
   },
   {
-    "name": 75708007,
-    "chName": "台灣塑膠工業股份有限公司冬山廠",
-    "status": "Y",
-    "group": 1
+    "name": 1131,
+    "chName": "起日",
+    "statue": "Y",
+    "group": 1131
   },
   {
-    "name": "94A00105",
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1142,
+    "chName": "起訴",
+    "statue": "Y",
+    "group": 1142
   },
   {
-    "name": 99621755,
-    "chName": "未知",
-    "status": "未知",
-    "group": 5
+    "name": 1110,
+    "chName": "酒後",
+    "statue": "Y",
+    "group": 1110
   },
   {
-    "name": 66380403,
-    "chName": "昱生貿易有限公司",
-    "status": "Y",
-    "group": 1
+    "name": 1065,
+    "chName": "酒精",
+    "statue": "Y",
+    "group": 1065
   },
   {
-    "name": 12765162,
-    "chName": "豐常實業有限公司",
-    "status": "Y",
-    "group": 2
+    "name": 1059,
+    "chName": "停車",
+    "statue": "Y",
+    "group": 1059
   },
   {
-    "name": 99688187,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1093,
+    "chName": "偵查",
+    "statue": "Y",
+    "group": 1093
   },
   {
-    "name": 11384708,
-    "chName": "長春人造樹脂廠股份有限公司麥寮廠",
-    "status": "N",
-    "group": 1
+    "name": 1092,
+    "chName": "執行",
+    "statue": "Y",
+    "group": 1092
   },
   {
-    "name": 23045916,
-    "chName": "瑞安大藥廠股份有限公司",
-    "status": "Y",
-    "group": 1
+    "name": 1130,
+    "chName": "得於",
+    "statue": "Y",
+    "group": 1130
   },
   {
-    "name": "03000155",
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1078,
+    "chName": "情事",
+    "statue": "Y",
+    "group": 1078
   },
   {
-    "name": 99654718,
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
+    "name": 1122,
+    "chName": "條例",
+    "statue": "Y",
+    "group": 1122
   },
   {
-    "name": 99621180,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1062,
+    "chName": "毫克",
+    "statue": "Y",
+    "group": 1062
   },
   {
-    "name": 99622335,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1014,
+    "chName": "現場",
+    "statue": "Y",
+    "group": 1014
   },
   {
-    "name": 60247533,
-    "chName": "全化工股份有限公司",
-    "status": "Y",
-    "group": 1
+    "name": 1123,
+    "chName": "異議",
+    "statue": "Y",
+    "group": 1123
   },
   {
-    "name": 23509611,
-    "chName": "昶昕實業股份有限公司蘆竹廠",
-    "status": "N",
-    "group": 3
+    "name": 1053,
+    "chName": "異議人",
+    "statue": "Y",
+    "group": 1053
   },
   {
-    "name": 24235127,
-    "chName": "曜岩應用材料有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1002,
+    "chName": "第頁",
+    "statue": "Y",
+    "group": 1002
   },
   {
-    "name": 86260757,
-    "chName": "佐禾美企業有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1117,
+    "chName": "累犯",
+    "statue": "Y",
+    "group": 1117
   },
   {
-    "name": 12553765,
-    "chName": "九連環境開發股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1037,
+    "chName": "終結",
+    "statue": "Y",
+    "group": 1037
   },
   {
-    "name": 13148343,
-    "chName": "東俊實業有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1129,
+    "chName": "翌日",
+    "statue": "Y",
+    "group": 1129
   },
   {
-    "name": 99653069,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1118,
+    "chName": "處分",
+    "statue": "Y",
+    "group": 1118
   },
   {
-    "name": 99630270,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1120,
+    "chName": "處罰",
+    "statue": "Y",
+    "group": 1120
   },
   {
-    "name": 55336845,
-    "chName": "台灣佳能股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1015,
+    "chName": "被害人",
+    "statue": "Y",
+    "group": 1015
   },
   {
-    "name": 23331447,
-    "chName": "珀裕企業有限公司",
-    "status": "Y",
-    "group": 1
+    "name": 1030,
+    "chName": "規定",
+    "statue": "Y",
+    "group": 1030
   },
   {
-    "name": 86120031,
-    "chName": "信昌化學工業股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1049,
+    "chName": "通知單",
+    "statue": "Y",
+    "group": 1049
   },
   {
-    "name": 99622051,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1095,
+    "chName": "造成",
+    "statue": "Y",
+    "group": 1095
   },
   {
-    "name": 16695907,
-    "chName": "暐凱國際檢驗科技股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1149,
+    "chName": "部分",
+    "statue": "Y",
+    "group": 1149
   },
   {
-    "name": 75370905,
-    "chName": "南亞塑膠工業股份有限公司麥寮總廠",
-    "status": "N",
-    "group": 3
+    "name": 1137,
+    "chName": "麻醉藥品",
+    "statue": "Y",
+    "group": 1137
   },
   {
-    "name": "90T00327",
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1034,
+    "chName": "期間",
+    "statue": "Y",
+    "group": 1034
   },
   {
-    "name": 13023441,
-    "chName": "米山生物科技有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1098,
+    "chName": "測試",
+    "statue": "Y",
+    "group": 1098
   },
   {
-    "name": 99649561,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1010,
+    "chName": "發生",
+    "statue": "Y",
+    "group": 1010
   },
   {
-    "name": 70452890,
-    "chName": "佳和桂科技股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1083,
+    "chName": "程序",
+    "statue": "Y",
+    "group": 1083
   },
   {
-    "name": 12233428,
-    "chName": "大連化學工業股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1040,
+    "chName": "裁決",
+    "statue": "Y",
+    "group": 1040
   },
   {
-    "name": 63020085,
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
+    "name": 1108,
+    "chName": "裁定",
+    "statue": "Y",
+    "group": 1108
   },
   {
-    "name": "03000400",
-    "chName": "未知",
-    "status": "未知",
-    "group": 21
+    "name": 1146,
+    "chName": "量刑",
+    "statue": "Y",
+    "group": 1146
   },
   {
-    "name": "03001008",
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1018,
+    "chName": "傷害",
+    "statue": "Y",
+    "group": 1018
   },
   {
-    "name": 74229304,
-    "chName": "南寶樹脂化學工廠股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1032,
+    "chName": "意旨",
+    "statue": "Y",
+    "group": 1032
   },
   {
-    "name": 68561302,
-    "chName": "美豐工業原料行",
-    "status": "未知",
-    "group": 1
+    "name": 1086,
+    "chName": "業務",
+    "statue": "Y",
+    "group": 1086
   },
   {
-    "name": 99609971,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1087,
+    "chName": "準備",
+    "statue": "Y",
+    "group": 1087
   },
   {
-    "name": 99621346,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1019,
+    "chName": "照片",
+    "statue": "Y",
+    "group": 1019
   },
   {
-    "name": 99659855,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1007,
+    "chName": "當時",
+    "statue": "Y",
+    "group": 1007
   },
   {
-    "name": 17502702,
-    "chName": "達鑫化工原料行",
-    "status": "未知",
-    "group": 1
+    "name": 1116,
+    "chName": "萬元",
+    "statue": "Y",
+    "group": 1116
   },
   {
-    "name": 70592560,
-    "chName": "雨品實業有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1136,
+    "chName": "號聲",
+    "statue": "Y",
+    "group": 1136
   },
   {
-    "name": "94A00022",
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1039,
+    "chName": "補提",
+    "statue": "Y",
+    "group": 1039
   },
   {
-    "name": 50531334,
-    "chName": "景明化工股份有限公司",
-    "status": "Y",
-    "group": 31
+    "name": 1017,
+    "chName": "過失",
+    "statue": "Y",
+    "group": 1017
   },
   {
-    "name": 64004340,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1023,
+    "chName": "過失傷害",
+    "statue": "Y",
+    "group": 1023
   },
   {
-    "name": "03000591",
-    "chName": "未知",
-    "status": "未知",
-    "group": 3
+    "name": 1119,
+    "chName": "道路交通",
+    "statue": "Y",
+    "group": 1119
   },
   {
-    "name": 23509611,
-    "chName": "昶昕實業股份有限公司",
-    "status": "N",
-    "group": 3
+    "name": 1057,
+    "chName": "達日",
+    "statue": "Y",
+    "group": 1057
   },
   {
-    "name": "90T00194",
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1125,
+    "chName": "違反",
+    "statue": "Y",
+    "group": 1125
   },
   {
-    "name": 99652184,
-    "chName": "未知",
-    "status": "未知",
-    "group": 3
+    "name": 1055,
+    "chName": "違規",
+    "statue": "Y",
+    "group": 1055
   },
   {
-    "name": 11384708,
-    "chName": "長春人造樹脂廠股份有限公司新竹廠",
-    "status": "N",
-    "group": 1
+    "name": 1074,
+    "chName": "零五",
+    "statue": "Y",
+    "group": 1074
   },
   {
-    "name": 99603230,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1066,
+    "chName": "零點",
+    "statue": "Y",
+    "group": 1066
   },
   {
-    "name": 80402272,
-    "chName": "恆利肯有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1024,
+    "chName": "撤回",
+    "statue": "Y",
+    "group": 1024
   },
   {
-    "name": 17581163,
-    "chName": "弘曜化學儀器行",
-    "status": "未知",
-    "group": 1
+    "name": 1029,
+    "chName": "撤回告訴",
+    "statue": "Y",
+    "group": 1029
   },
   {
-    "name": 34281486,
-    "chName": "昶緣興化學工業股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1121,
+    "chName": "管理",
+    "statue": "Y",
+    "group": 1121
   },
   {
-    "name": 86604021,
-    "chName": "盈吉化工原料有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1011,
+    "chName": "肇事",
+    "statue": "Y",
+    "group": 1011
   },
   {
-    "name": 99629938,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1104,
+    "chName": "臺北",
+    "statue": "Y",
+    "group": 1104
   },
   {
-    "name": 11384708,
-    "chName": "長春人造樹脂廠股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1012,
+    "chName": "臺北市",
+    "statue": "Y",
+    "group": 1012
   },
   {
-    "name": 23251458,
-    "chName": "慈光企業有限公司",
-    "status": "N",
-    "group": 2
+    "name": 1096,
+    "chName": "臺北地方法院",
+    "statue": "Y",
+    "group": 1096
   },
   {
-    "name": 99621852,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1020,
+    "chName": "認定",
+    "statue": "Y",
+    "group": 1020
   },
   {
-    "name": 66310195,
-    "chName": "春盛企業股份有限公司",
-    "status": "N",
-    "group": 2
+    "name": 1152,
+    "chName": "駁回",
+    "statue": "Y",
+    "group": 1152
   },
   {
-    "name": 70842899,
-    "chName": "義鎧科技股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1154,
+    "chName": "審理",
+    "statue": "Y",
+    "group": 1154
   },
   {
-    "name": 99600841,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1102,
+    "chName": "影響",
+    "statue": "Y",
+    "group": 1102
   },
   {
-    "name": "90N00801",
-    "chName": "未知",
-    "status": "未知",
-    "group": 3
+    "name": 1113,
+    "chName": "確定",
+    "statue": "Y",
+    "group": 1113
   },
   {
-    "name": "04476652",
-    "chName": "晉一化工股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1085,
+    "chName": "緩刑",
+    "statue": "Y",
+    "group": 1085
   },
   {
-    "name": 80141354,
-    "chName": "揚堡實業有限公司觀音廠",
-    "status": "N",
-    "group": 1
+    "name": 1139,
+    "chName": "適用",
+    "statue": "Y",
+    "group": 1139
   },
   {
-    "name": 96991346,
-    "chName": "上仁化工有限公司",
-    "status": "Y",
-    "group": 1
+    "name": 1109,
+    "chName": "駕車",
+    "statue": "Y",
+    "group": 1109
   },
   {
-    "name": 86363043,
-    "chName": "龍伸科技有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1141,
+    "chName": "駕駛者",
+    "statue": "Y",
+    "group": 1141
   },
   {
-    "name": 16743719,
-    "chName": "聯仕電子化學材料股份有限公司",
-    "status": "Y",
-    "group": 1
+    "name": 1001,
+    "chName": "機車",
+    "statue": "Y",
+    "group": 1001
   },
   {
-    "name": 23535435,
-    "chName": "欣興電子股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1124,
+    "chName": "機關",
+    "statue": "Y",
+    "group": 1124
   },
   {
-    "name": 99622457,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1060,
+    "chName": "濃度",
+    "statue": "Y",
+    "group": 1060
   },
   {
-    "name": 99706769,
-    "chName": "未知",
-    "status": "未知",
-    "group": 2
+    "name": 1048,
+    "chName": "聯國",
+    "statue": "Y",
+    "group": 1048
   },
   {
-    "name": 99661470,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1127,
+    "chName": "聲明",
+    "statue": "Y",
+    "group": 1127
   },
   {
-    "name": 22102950,
-    "chName": "旗勝科技股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1041,
+    "chName": "舉發",
+    "statue": "Y",
+    "group": 1041
   },
   {
-    "name": 68770700,
-    "chName": "瑞士藥廠股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1046,
+    "chName": "歸責",
+    "statue": "Y",
+    "group": 1046
   },
   {
-    "name": 89793004,
-    "chName": "久冠企業有限公司",
-    "status": "N",
-    "group": 2
+    "name": 1009,
+    "chName": "騎乘",
+    "statue": "Y",
+    "group": 1009
   },
   {
-    "name": 84100545,
-    "chName": "合皓股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1013,
+    "chName": "證人",
+    "statue": "Y",
+    "group": 1013
   },
   {
-    "name": 99686178,
-    "chName": "未知",
-    "status": "未知",
-    "group": 1
+    "name": 1042,
+    "chName": "證書",
+    "statue": "Y",
+    "group": 1042
   },
   {
-    "name": "03707901",
-    "chName": "台灣中油股份有限公司",
-    "status": "N",
-    "group": 1
+    "name": 1035,
+    "chName": "辯論",
+    "statue": "Y",
+    "group": 1035
   }
 ]

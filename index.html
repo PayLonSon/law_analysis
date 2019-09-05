@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+ <!DOCTYPE html>
 
 <head>
   <meta charset="utf-8">
@@ -344,7 +344,7 @@
                     .data(function(d) { return d._children || [d]; })
                   .enter().append("rect")
                     .attr("class", "child")
-                    .style("fill", function(d) { return color(d.change / 100 || 0); })
+                    .style("fill", function(d) { return color((d.change / 100)*1.2 || 0); })
                     .call(rect);
 
                 g.append("rect")
@@ -355,6 +355,8 @@
 
                 g.append("text")
                     .attr("dy", ".75em")
+					.attr("font-family", "Microsoft JhengHei")
+					.attr("font-size",function(d) { return Math.sqrt(d.value+1)*2+5; })
                     .text(function(d) { return d.name; })
                     .call(text);
 

@@ -223,10 +223,9 @@
         .enter().append("g")
         .attr("class", "node")
         .call(force.drag);
-
         //node.append("circle")
 		node.append("text")
-		.text("NNN給我資料")
+		.text(function(d) { return d.chName; })
         //.attr("r", function(d) { return d.groupSize; })
         //.attr("fill", function(d) { return d.color; })
         .on("mouseover",function(d,i){
