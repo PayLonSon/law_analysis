@@ -28,7 +28,7 @@
             d.font = font.call(this, d, i);
             d.style = fontStyle.call(this, d, i);
             d.weight = fontWeight.call(this, d, i);
-            d.rotate = rotate.call(this, d, i);
+            d.rotate = 0;
             d.size = ~~fontSize.call(this, d, i);
             d.padding = padding.call(this, d, i);
             return d;
