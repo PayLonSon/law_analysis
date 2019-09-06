@@ -1,11 +1,11 @@
-/* 
+﻿/* 
   js/graph.js
   
   DependencyGraph.html中的"廠商流向關係圖" 
   */
 
   /* 繪製依賴圖 */
-  function drawGraph(upstreamName){
+  function drawGraph(){
    var width = parseInt(d3.select('#dependencyGraph').style('width'), 10),
    height = 500
 
@@ -81,20 +81,18 @@
 
   d3.json("json/graph_node.json", function(node_json) {
     d3.json("json/graph_edge.json", function(link_json) {
+		var link_data = [];
         var node_data = [];
-        var link_data = [];
         var unique_node = [];
-
+		console.log(link_json);
         // 依條件過濾資料
         $.each(link_json, function(index, value) {
-         // var d = value.date.replace('/','');
-         // if(global_casno.includes((value.casno).toString()) && global_action.includes((value.transcation_class).toString()) && date[0] <= d && date[1] >= d && num[0] <= value.amount && num[1] >= value.amount){
-            link_data.push(value)
+			  
+			link_data.push(value);
             unique_node.push((value.upstream).toString());
             unique_node.push((value.downstream).toString());
-         // }
+          
         });
-
         unique_node = unique_node.filter(onlyUnique);
 
         $.each(node_json, function(index, value) {
@@ -106,24 +104,17 @@
         // 排序資料，建立資料表資訊
         var link_data_sorted = link_data.sort(compareCasDate);
         var tableStr = ""
-		//alert("[INFO] "+upstreamName);
         $.each(link_data_sorted, function(index, value) {
-			if(upstreamName==value.upstream||upstreamName==""||upstreamName==value.downstream){
-					  tableStr += '<tr>';
-					  tableStr += '<td>'+value.upstream+'</td>';
-					  tableStr += '<td>'+value.downstream+'</td>';
-					  tableStr += '<td>'+value.upstream_name+'</td>';
-					  tableStr += '<td>'+value.downstream_name+'</td>';
-					  tableStr += '<td>'+value.foodIndustry+'</td>';
-					  tableStr += '<td align="left">'+value.isFoodIndustry+'</td>';
-					  tableStr += '<td align="left">'+value.feedFlow+'</td>';
-					  tableStr += '</tr>';
-			}
-			
-         
+          tableStr += '<tr>';
+          tableStr += '<td>'+value.cas+"<br>("+value.casno+')</td>';
+          tableStr += '<td>'+value.date+'</td>';
+          tableStr += '<td>'+value.upstream_name+"("+value.upstream+')</td>';
+          tableStr += '<td>'+value.downstream_name+"("+value.downstream+')</td>';
+          tableStr += '<td>'+value.transcation_class+'</td>';
+          tableStr += '<td>'+value.amount+'(kg)</td>';
+          tableStr += '</tr>';
         });
-        $('.dependencyTable tbody').html(tableStr)
-
+        $('.dependencyTable tbody').html(tableStr); //*/
         // 做資料格式處理
         var valueKey = {};
         var keyValue = {};
@@ -139,9 +130,16 @@
         $.each(node_data, function(index, value){
           var lv = normalize(node_data[index].group, max, min)-1;
           node_data[index].groupSize = nodeSize[lv];
-          node_data[index].color = nodeColor(nodeLinear(lv));
+		  if(value.status =="N"){
+			  node_data[index].color = "#f11e00";
+		  }else if(value.status =="Y"){
+			  node_data[index].color = "#8bc34a";
+		  }else{
+			  node_data[index].color = "#1a7ed5";
+		  }
         });
 
+			console.log(link_data);
         $.each(link_data, function(index, value){
           link_data[index]["upstream"] = valueKey[link_data[index]["upstream"]];
           link_data[index]["downstream"] = valueKey[link_data[index]["downstream"]];
@@ -154,29 +152,26 @@
           return [item.upstream, item.downstream];
         });
         $.each(path_sorted, function(index, value) {
+			
           // console.log(value);
           var dataStr = "";
           var tmp_amount = 0;
-          var tmp = {"使用量":0,"貯存量":0,"買入量":0,"製造量":0,"廢棄量":0,"賣出量":0,"輸入量":0,"輸出量":0};
+          var tmp = {"使用量":0,"貯存量":0,"買入量":0,"製造量":0,"廢棄量":0,"賣出":0,"輸入量":0,"輸出量":0};
           $.each(value, function(i, v) {
             tmp[v.transcation_class] += v.amount;
             tmp_amount += v.amount;
           });
           
-          dataStr += '上游廠商:   '+value[0].upstream_name+"("+keyValue[value[0].upstream]+')\n';
-          dataStr += '下游廠商:   '+value[0].downstream_name+"("+keyValue[value[0].downstream]+')\n';
+         // dataStr += '上游廠商:   '+value[0].upstream_name+"("+keyValue[value[0].upstream]+')\n';
+         // dataStr += '下游廠商:   '+value[0].downstream_name+"("+keyValue[value[0].downstream]+')\n';
           $.each(tmp, function(i, v) {
-              dataStr += i+":\t"+v.toLocaleString()+" \n";
+            
+              dataStr += i+":\t"+v.toLocaleString()+" (kg)\n";
             
           });
           var lv = normalize(tmp_amount, max, min)-1;
+		  //console.log(value[0]);
           edge_data.push({"source":value[0].upstream,"target":value[0].downstream,"color":lineColor(lineLinear(lv)),"arrowSize":arrowSize[lv],"weight":lineSize[lv],"data":dataStr});
-        });
-
-        $.each(edge_data, function(i, v) {
-          if(v.source == 278 || v.target == 278){
-            console.log(v);
-          }
         });
 
 
@@ -228,24 +223,25 @@
         .enter().append("g")
         .attr("class", "node")
         .call(force.drag);
-
+        //node.append("circle")
 		node.append("text")
 		.text(function(d) { return d.chName; })
-		.attr("font-size", 15);
-		node.append("circle")
-		.attr("r", function(d) { return d.groupSize/2; })
-        .attr("fill", function(d) { return d.color; })
-		.attr("opacity",0)
+        //.attr("r", function(d) { return d.groupSize; })
+        //.attr("fill", function(d) { return d.color; })
         .on("mouseover",function(d,i){
+          d3.select(this)
+          .append("title");
+          //.text('廠商:   '+d.chName+"\n"+'統編:   '+(d.name).toString()+"\n"+'交易廠商數:   '+d.group.toLocaleString()+" 間");
         })
         .on("mouseout",function(d,i){
           d3.select(this)
           .select("title")
           .remove();
-        }).on("click", function(d,i) {
-		  refresh((d.name).toString());
-		  
-		});
+        }).on("click",function(d,i){
+			$( "#company-filter" ).html("分析條件 : <a style='cursor: pointer;' onclick='refresh();'>左側查詢條件</a> > "+d.chName);
+			global_company=[d.chName];
+			drawGraph();
+        });
 
         force.on("tick", function() {
           link.attr("x1", function(d) { return d.source.x; })
@@ -257,12 +253,7 @@
         });
       });
 });
-}
-
-function refresh(id){
-    global_casno = $('#cas-search').val();
-    global_action = $('#action-search').val();
-    drawGraph(id);
+	//sortTable2($("#datatable"),"desc");
 }
 
 /* 
@@ -283,3 +274,11 @@ function refresh(id){
       }
     }
   }
+  
+  function refresh() {
+								$( "#company-filter" ).html("分析條件 : <a style='cursor: pointer; ' onclick='refresh();'>左側查詢條件</a> ");
+								global_casno = $('#cas-search').val();
+								global_action = $('#action-search').val();
+								global_company = $('#company-search').val();
+								drawGraph();
+							}

@@ -5,10 +5,6 @@ function WorldCloud() {
 		type : "GET",
 		dataType : "json",
 		url : 'json/chemical_material.json',
-		data : {
-			startDate : $('#datepicker_start').val(),
-			endDate : $('#datepicker_end').val()
-		},
 		success : function(response) {
 			var words = [];
 			var beforekw = '';
@@ -16,10 +12,8 @@ function WorldCloud() {
 			var themeKeys = [];
 				$.each(response, function(index, value) {
 					
-							words[i] = value.keyword;
-							beforekw = value.keyword;
-							i++;
-							check = false;
+							words[value.keyword] = value.value;
+							
 						});
 					
 			
@@ -30,23 +24,7 @@ function WorldCloud() {
 }
 
 function drawWordCloud(words) {
-	console.log(words);
-	var word_count = {};
-	if (words.length == 1) {
-		word_count[words[0]] = 1;
-	} else {
-		words.forEach(function(word) {
-			// if (word != "" && common.indexOf(word)==-1 && word.length>1){
-			if (word != "" && word.length > 1) {
-				if (word_count[word]) {
-					word_count[word]++;
-				} else {
-					word_count[word] = 1;
-				}
-			}
-		})
-	}
-	console.log(word_count);
+	
 	// alert(word_count["工業用"]);
 	var svg_location = "#wordCloud";
 	var width = $("#wordCloud").width();
@@ -54,11 +32,13 @@ function drawWordCloud(words) {
 
 	var fill = d3.scale.category20();
 
-	var word_entries = d3.entries(word_count);
+	var word_entries = d3.entries(words);
+	console.log(word_entries);
 	var xScale = d3.scale.linear().domain(
 			[ 0, d3.max(word_entries, function(d) {
 				return d.value;
 			}) ]).range([ 20, 80 ]);
+	
 
 	d3.layout.cloud().size([ width, height ]).timeInterval(20).words(
 			word_entries).fontSize(function(d) {
@@ -123,11 +103,7 @@ function drawWordCloud(words) {
         .text(title)
         .appendTo('body')
         .fadeIn('slow');
-// var group = d3.select('#wordCloudsvg').append('text').attr('id',
-// 'story-titles').attr('transform','translate('+(parseInt(d.x)+parseInt('10'))+','+(parseInt(d.y)+parseInt('10'))
-// +')');
 		var base = d.y - d.size;
-// group.text(d.value);
 		
 	}
 

@@ -105,16 +105,22 @@
 	<div>
 		<h1 class="title">判決書關鍵字雲</h1>
 	</div>
-	<div class="container-fluid">
-		<div class="row">
+	<div class="row">
+					<div class="col-md-12">
+						<h2 class="content"id ="keyword-filter"></h2>
+					</div>
+					<div class="col-md-4">
+						<h2 class="title">判決書相關資訊</h2>
+						<h4 class="title">判決字號</h4>
+						<h4 class="title">審判次數</h4>
+						<h4 class="title">相關法院等其他資訊</h4>
+					</div>
+					<div class="col-md-8">
+						<h2 class="title">判決書關鍵字雲</h2>
+						<div id="wordCloud"></div>
+					</div>
+				</div>
 			
-			<main class="col-md-10" >				
-			<div class="row" style="padding: 15px;">
-				<h2 class="title">判決書關鍵字雲</h2>
-				<div id="wordCloud"></div>
-			</div>
-			
-	</main>
 </div>
 </div>
 </div>
@@ -131,8 +137,6 @@
 <script src="js/cloud.js"></script>
 <script src="js/d3/sliderbar.js"></script>
 <script src="js/pages/wordCloudController.js"></script>
-<script src="js/pages/lineChartController.js"></script>
-<script src="js/pages/alertEventController.js"></script>
 
 <!-- slider bar -->
 <script src="js/jquery/jQRangeSlider/lib/jquery.mousewheel.min.js"></script>
