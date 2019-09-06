@@ -1,0 +1,295 @@
+/* layout top */
+html, body{
+	font-family: Microsoft JhengHei;
+}
+main{
+	padding: 10px;
+}
+#side-menu{
+	padding-top: 10px;
+	background-color: #f8f8f8;
+}
+/* layout end */
+
+
+/* content top */
+.flow {
+	width: 100%;
+}
+#datatable{
+	width: 100%;
+}
+#datatable tbody tr td{
+	height: 40px;
+}
+.datatableDiv {
+	height:300px;
+	overflow:scroll;
+	padding-left: 15px;
+	margin-right: 15px;
+	width: 100%;
+}
+#datatable_tmp {
+	width: 100%;
+}
+#datatable_tmp thead th{
+	background-color: #F8F4E8;
+	border-bottom: 2px solid #ccc;
+	font-weight: bold;
+}
+#datatable thead th{
+	background-color: #F8F4E8;
+	border-bottom: 2px solid #ccc;
+	font-weight: bold;
+}
+#elementAlert1 tbody tr td{
+	height: 40px;
+	padding: 0 3px;
+}
+#elementAlert2 tbody tr td{
+	height: 40px;
+	padding: 0 3px;
+}
+
+.dependencyTable thead th:nth-child(1){
+	height: 40px;
+	padding: 0 3px;
+}
+.dependencyTable thead th:nth-child(1){
+	width: 20%;
+}
+.dependencyTable thead th:nth-child(2){
+	width: 10%;
+}
+.dependencyTable thead th:nth-child(3){
+	width: 25%;
+}
+.dependencyTable thead th:nth-child(4){
+	width: 25%;
+}
+.dependencyTable thead th:nth-child(5){
+	width: 10%;
+}
+.dependencyTable thead th:nth-child(6){
+	width: 10%;
+}
+.dependencyTable tbody tr td:nth-child(6){
+	text-align: right;
+}
+
+
+.manufacturer tbody tr{
+	height: 40px;
+}
+.manufacturer thead th:nth-child(1){
+	width: 30%;
+}
+.manufacturer thead th:nth-child(2){
+	width: 15%;
+}
+.manufacturer thead th:nth-child(3){
+	width: 10%;
+}
+.manufacturer thead th:nth-child(4){
+	width: 10%;
+}
+.manufacturer thead th:nth-child(5){
+	width: 8%;
+}
+.manufacturer thead th:nth-child(6){
+	width: 8%;
+}
+.manufacturer thead th:nth-child(7){
+	width: 25%;
+}
+
+.flow thead th{
+	font-weight: bold;
+}
+.flow tbody tr td{
+	height: 40px;
+}
+.flow thead th:nth-child(1){
+	width: 8%;
+}
+.flow thead th:nth-child(2){
+	width: 8%;
+}
+.flow thead th:nth-child(3){
+	width: 8%;
+}
+.flow thead th:nth-child(4){
+	width: 15%;
+}
+.flow thead th:nth-child(5){
+	width: 8%;
+}
+.flow thead th:nth-child(6){
+	width: 8%;
+}
+.flow thead th:nth-child(7){
+	width: 15%;
+}
+.flow thead th:nth-child(9){
+	width: 10%;
+}
+.flow thead th:nth-child(10){
+	width: 10%;
+}
+.flow tbody td:nth-child(9){
+	text-align: right;
+}
+.flow tbody td:nth-child(10){
+	text-align: right;
+}
+
+.air tbody tr td:nth-child(1){
+	text-align: center;
+}
+.air thead th{
+	font-weight: bold;
+}
+.air thead th:nth-child(1){
+	width: 5%;
+}
+.air thead th:nth-child(2){
+	width: 15%;
+}
+.air thead th:nth-child(3){
+	width: 10%;
+}
+.air thead th:nth-child(4){
+	width: 10%;
+}
+.air thead th:nth-child(5){
+	width: 10%;
+}
+.air thead th:nth-child(6){
+	width: 10%;
+}
+.air thead th:nth-child(7){
+	width: 10%;
+}
+.air thead th:nth-child(8){
+	width: 18%;
+}
+
+/* content end */
+
+
+/* components top */
+
+.datepicker {
+	font-size: 15px;
+}
+
+.form-group label{
+	font-weight: bold;
+}
+.color{
+	margin-left: 5px;
+}
+h1.title{
+	text-align: center!important;
+	font-size: 30px;
+	font-weight: bold;
+	padding: 10px 0;
+	background-color: #ccc;
+	margin: 0;
+}
+h2.title{
+	background-color: #F8F4E8;
+	font-size: 24px;
+	font-weight: bold;
+	padding: 5px 10px;
+	width: 100%;
+}
+h2.content{
+	background-color: #f8f8f8;
+	font-size: 15px;
+	font-weight: bold;
+	padding: 5px 10px;
+	width: 100%;
+}
+.searchFrame{
+	text-align: right;
+}
+#searchBtn{
+	background-color: #ddd;
+	width: 80px;
+	text-align: center;
+}
+.color-circle{
+	width: 30px;
+	height: 30px;
+	border-radius: 99em;
+	background-color: red;
+	text-align: center;
+	padding-top: 6px;
+	color: white;
+	font-size: 10px;
+}
+.color-circle.red{
+	background-color: #dc3545;
+}
+.color-circle.green{
+	background-color: #28a745;
+}
+.color-circle.yellow{
+	background-color: #ffc107;
+}
+
+.block-color{
+	color: white;
+	text-align: center;
+	padding: 0;
+}
+.color-0{
+	background-color: #28a745;
+}
+
+.color-1{
+	background-color: #ffc107;
+}
+
+.color-2{
+	background-color: #dc3545;
+}
+
+.flowFrame {
+	border: 1px solid #ccc;
+}
+
+#operateDiv .col-md-4{
+	margin: 0
+}
+.tmp {
+	display: none;
+}
+
+.dateStr{
+	font-size: 10px;
+	font-weight: bold;
+}
+#datepicker_end{
+	float: right;
+}
+#datepicker_start{
+	float: left;
+}
+#num_end{
+	float: right;
+}
+#num_start{
+	float: left;
+}
+.dateFrame{
+	height: 40px;
+}
+.ui-rangeSlider-label-value{
+	display: none !important;
+}
+
+/* components end */
+
+

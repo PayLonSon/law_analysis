@@ -1,0 +1,30 @@
+.multiselect-native-select {
+
+}
+
+.multiselect-native-select button.dropdown-toggle {
+	width: 100%;
+}
+.multiselect-native-select .btn-group {
+	width: 100%;
+}
+.multiselect-native-select .multiselect-clear-filter{
+	width: 30px;
+	margin-right: 10px;
+	padding-left: 6px;
+}
+
+.multiselect-native-select .multiselect{
+	background-color: white;
+	border: 1px solid #eee;
+}
+.multiselect-native-select ul{
+	background-color: white;
+	width: 250px;
+	max-height: 400px;
+	overflow:scroll;
+}
+.multiselect-native-select label.checkbox{
+	padding-left: 35px;
+	color: black;
+}

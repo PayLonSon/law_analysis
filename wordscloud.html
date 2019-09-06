@@ -1,0 +1,152 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+	<title>判決書關鍵字雲</title>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="cache-control" content="no-cache">
+	<meta http-equiv="pragma" content="no-cache">
+	<meta http-equiv="expires" content="0">
+	<link href="css/bootstrap.min.css" rel="stylesheet">
+	<script src="js/jquery/jquery.min.js"></script>
+	<script src="js/d3/d3.min.js"></script>
+
+
+	<!-- multiselect -->
+	<link rel="stylesheet" href="css/bootstrap.min.css" type="text/css" />
+	<link rel="stylesheet" href="css/bootstrap-multiselect.css"
+	type="text/css" />
+	<link rel="stylesheet" href="css/customize_multiselect.css"
+	type="text/css" />
+	<link rel="stylesheet" href="css/classic.css" type="text/css" />
+	<link rel="stylesheet" href="css/loader.css" type="text/css" />
+	<link rel="stylesheet" href="css/style.css" type="text/css" />
+	<style>
+	.chart rect {
+		fill: steelblue
+	}
+
+	.chart g text {
+		font-family: sans-serif;
+		font-size: 11px;
+		font-weight: bold;
+	}
+
+	.axis path, .axis line {
+		fill: none;
+		shape-rendering: crispEdges;
+	}
+
+	.axis text {
+		font-family: sans-serif;
+		font-size: 11px;
+	}
+
+	.table-responsive {
+		height: 300px;
+	}
+
+	table {
+		overflow-x: hidden;
+		overflow-y: scroll;
+	}
+
+	table td {
+		overflow-x: hidden;
+		white-space: nowrap;
+	}
+
+	div.tooltip {
+		position: absolute;
+		text-align: center;
+		width: 80px;
+		height: 30px;
+		padding: 2px;
+		font: 12px sans-serif;
+		background: #f8f8f8;
+		border: 10px;
+		border-color: coral;
+		border-radius: 8px;
+		pointer-events: none;
+	}
+
+	div.tooltiptable {
+		position: absolute;
+		text-align: left;
+		width: 300px;
+		height: 150px;
+		padding: 2px;
+		font: 12px sans-serif;
+		background: #f8f8f8;
+		border: 10px;
+		border-color: coral;
+		border-radius: 8px;
+		pointer-events: none;
+	}
+
+	#waypointsTable tr:hover {
+		background-color: yellow;
+	}
+
+	.AlertTD {
+		background-color: red;
+	}
+
+	.TD {
+		text-align: center;
+	}
+	#elementAlert2 td:nth-child(1){
+		cursor: pointer; 
+	}
+</style>
+</head>
+<body onload="loader()">
+	<div class="se-pre-con"></div>
+	<div>
+		<h1 class="title">判決書關鍵字雲</h1>
+	</div>
+	<div class="container-fluid">
+		<div class="row">
+			
+			<main class="col-md-10" >				
+			<div class="row" style="padding: 15px;">
+				<h2 class="title">判決書關鍵字雲</h2>
+				<div id="wordCloud"></div>
+			</div>
+			
+	</main>
+</div>
+</div>
+</div>
+<script src="js/jquery/jquery-3.1.1.min.js"></script>
+<script src="js/loader.js"></script>
+
+<!-- multiselect -->
+<script type="text/javascript" src="js/popper.min.js"></script>
+<script type="text/javascript" src="js/bootstrap.min.js"></script>
+<script type="text/javascript" src="js/bootstrap-multiselect.js"></script>
+<!--Highcharts -->
+<script src="js/hightcharts/hightcharts.js"></script>
+<!-- js controller -->
+<script src="js/cloud.js"></script>
+<script src="js/d3/sliderbar.js"></script>
+<script src="js/pages/wordCloudController.js"></script>
+<script src="js/pages/lineChartController.js"></script>
+<script src="js/pages/alertEventController.js"></script>
+
+<!-- slider bar -->
+<script src="js/jquery/jQRangeSlider/lib/jquery.mousewheel.min.js"></script>
+<script src="js/jquery-ui.min.js"></script>
+<script type="text/javascript" src="js/jquery/jQRangeSlider/jQDateRangeSlider-min.js"></script>
+
+
+<script type="text/javascript">
+		
+		WorldCloud();
+	
+	
+</script>
+
+<script src="js/moment.min.js"></script>
+</body>
+</html>
